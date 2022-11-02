@@ -1,6 +1,6 @@
 Hi, I’m Michael 👋 
 
-I'm Michael Gonzalez, a Full Stack Web Developer with a background in Sales and Marketing. I'm currently enrolled in a full-time coding bootcamp, spending 60+
+A Full Stack Web Developer with a background in Sales and Marketing. I'm currently enrolled in a full-time coding bootcamp, spending 60+
 hours per week honing my craft. 
 
 Reach out! 📡
