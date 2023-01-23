@@ -1,7 +1,6 @@
 Hi, I’m Michael 👋 
 
-A Full Stack Web Developer with a background in Sales and Marketing. I'm currently enrolled in a full-time coding bootcamp, spending 60+
-hours per week honing my craft. 
+Full Stack Developer with 5 years of experience in Marketing & Sales. I am passionate about building scalable applications in 3 full stacks (Python, MERN, C#).
 
 Reach out! 📡
 </br>
