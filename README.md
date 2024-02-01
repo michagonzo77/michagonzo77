@@ -8,7 +8,7 @@ Reach out! 📡
 <a href="https://www.linkedin.com/in/michagonzo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:michagonzo77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </br>
-* How to reach me: michagonzo77@gmail.com
+* How to reach me: michael.gonz.fl@gmail.com
 * 💪🏼 Fun fact: I start my mornings with 20 minutes of sauna followed by a 5 minute 36° cold plunge.
 
 
