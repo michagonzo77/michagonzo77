@@ -1,6 +1,8 @@
-Hi, I’m Michael 👋 
+Hi, I’m Michael 👋
 
-Full Stack Developer with 5 years of experience in Marketing & Sales. I am passionate about building scalable applications in 3 full stacks (Python, MERN, C#).
+AI Solutions Engineer building secure, production-grade LLM systems and developer automation workflows.
+
+Python | Kubernetes | AI APIs | Cloud Infrastructure
 
 Reach out! 📡
 </br>
